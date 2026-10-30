@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="kiwi.com-scraper-api" />
+    <img src="https://github.com/user-attachments/assets/792c121d-bf05-4762-9f70-ca4cb2946efd" alt="kiwi.com-scraper-api" />
   </a>
 </p>
+
 
 [![checks](https://github.com/ScrapingBee/kiwi.com-scraper-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/kiwi.com-scraper-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/kiwi.com-scraper-api.svg)](LICENSE)
